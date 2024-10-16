@@ -1,14 +1,14 @@
-NEXT_PUBLIC_FIREBASE_API_KEY="AIzaSyDD14OlGwEXTep0Idv1DwIYeS964QLXlQk"
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN= "friendlyeats-codelab-791d7.firebaseapp.com"
-NEXT_PUBLIC_FIREBASE_PROJECT_ID= "friendlyeats-codelab-791d7"
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET= "friendlyeats-codelab-791d7.appspot.com""
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID= "260877612372"
-NEXT_PUBLIC_FIREBASE_APP_ID="1:260877612372:web:f99441b5f6391c69d584c1"
+NEXT_PUBLIC_FIREBASE_API_KEY = "AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0"
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN= "friendlyeats-codelab-1fdd8.firebaseapp.com"
+NEXT_PUBLIC_FIREBASE_PROJECT_ID= "friendlyeats-codelab-1fdd8"
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET= "friendlyeats-codelab-1fdd8.appspot.com"
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID= "292397486662"
+NEXT_PUBLIC_FIREBASE_APP_ID= "1:292397486662:web:fcabf569f6b0b2edeb7047"
 
 
-  # apiKey: "AIzaSyDD14OlGwEXTep0Idv1DwIYeS964QLXlQk",
-  # authDomain: "friendlyeats-codelab-791d7.firebaseapp.com",
-  # projectId: "friendlyeats-codelab-791d7",
-  # storageBucket: "friendlyeats-codelab-791d7.appspot.com",
-  # messagingSenderId: "260877612372",
-  # appId: "1:260877612372:web:f99441b5f6391c69d584c1"
+  # apiKey: "AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0",
+  # authDomain: "friendlyeats-codelab-1fdd8.firebaseapp.com",
+  # projectId: "friendlyeats-codelab-1fdd8",
+  # storageBucket: "friendlyeats-codelab-1fdd8.appspot.com",
+  # messagingSenderId: "292397486662",
+  # appId: "1:292397486662:web:fcabf569f6b0b2edeb7047"
