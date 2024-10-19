@@ -12,7 +12,8 @@ env:
     value: 292397486662
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: 1:292397486662:web:fcabf569f6b0b2edeb7047
-
+  - variable: GEMINI_API_KEY
+    secret: AIzaSyBoxdGr0oZjqsOQQsLAR7-MLVYiyaU-Z_Y
   # apiKey: "AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0",
   # authDomain: "friendlyeats-codelab-1fdd8.firebaseapp.com",
   # projectId: "friendlyeats-codelab-1fdd8",
