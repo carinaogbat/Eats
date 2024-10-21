@@ -1,17 +1,17 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0
+    secret: AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: friendlyeats-codelab-1fdd8.firebaseapp.com
+    secret: friendlyeats-codelab-1fdd8.firebaseapp.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: friendlyeats-codelab-1fdd8
+    secret: friendlyeats-codelab-1fdd8
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: friendlyeats-codelab-1fdd8.appspot.com
+    secret: friendlyeats-codelab-1fdd8.appspot.com
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: 292397486662
+    secret: 292397486662
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: 1:292397486662:web:fcabf569f6b0b2edeb7047
+    secret: 1:292397486662:web:fcabf569f6b0b2edeb7047
   - variable: GEMINI_API_KEY
     secret: AIzaSyBoxdGr0oZjqsOQQsLAR7-MLVYiyaU-Z_Y
   # apiKey: "AIzaSyDb15bH4juJu4Yg6EYzqWntS7XK5vFdug0",
